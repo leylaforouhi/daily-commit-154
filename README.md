@@ -1,4 +1,4 @@
-def rotate_string(text, positions):
+def rotate_strin(text, positions):
     if not text:
         return text
 
